@@ -13,7 +13,7 @@ Works with all weapon types. It's especially noticable when using long range sni
 
 ### ***WARNING! ONCE YOU INSTALL THIS MOD YOU WON'T BE ABLE TO LOAD YOUR SAVE WITHOUT IT, SO MAKE SURE TO MAKE A COPY OF YOUR SAVE FILES.***
 
-Place **`mod_stead_aim`** folder into DLC folder of your SteamWorld Heist directory, for example:
+Place **`mod_steady_aim`** folder into DLC folder of your SteamWorld Heist directory, for example:
 ```
 C:\Games\SteamLibrary\steamapps\common\SteamWorld Heist\DLC
 ```
