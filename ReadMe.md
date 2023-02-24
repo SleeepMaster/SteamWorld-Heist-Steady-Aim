@@ -7,6 +7,8 @@ Greatly reduces sway when aiming weapons.
 
 Works with all weapon types. It's especially noticable when using long range sniper ricoshets.
 
+[You can download it here](https://github.com/SleeepMaster/Steady-Aim/releases/download/v1.0.0/mod_steady_aim.rar).
+
 # INSTALLATION
 
 ### ***WARNING! ONCE YOU INSTALL THIS MOD YOU WON'T BE ABLE TO LOAD YOUR SAVE WITHOUT IT, SO MAKE SURE TO MAKE A COPY OF YOUR SAVE FILES.***
